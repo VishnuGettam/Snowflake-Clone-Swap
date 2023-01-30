@@ -2,7 +2,7 @@
 
 # Clone  : 
 
-1.Which helps to clone metadata of one table/schema/database to another uses the same storage layer .
+1.clone metadata of one table/schema/database to another uses the same storage layer .
 
 2.Any kind of time travel historical infomation will be lost in cloned object .
 
