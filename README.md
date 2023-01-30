@@ -1,6 +1,6 @@
 # Snowflake-Clone-Swap
 
-#Clone  : 
+##Clone  : 
 
 1.Which helps to clone metadata of one table/schema/database to another uses the same storage layer .
 
@@ -8,7 +8,7 @@
 
 3.Further DML operations are independent to each other and only the similar data will be shared b/w the objects and newly created or modified data will be                  pointed wrt to the object metadata.
          
-#Swap  :
+##Swap  :
 
 1.swaps the metadata of one object with another object . 
          
